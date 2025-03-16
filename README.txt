@@ -7,7 +7,7 @@
 
 usage: IP Info [-h] [-m MASK] [-g MASKGAME] [-i IPINFO]
 
-Command line utility that provides information about IP address and subnet masks.
+Command line utility that provides information about IP addresses and subnet masks.
 
 options:
   -h, --help            show this help message and exit
